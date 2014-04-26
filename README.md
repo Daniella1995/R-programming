@@ -1,3 +1,6 @@
+### Revision
+cachematrix.R has been edited according the instruction below for peer assignment submission.
+
 ### Introduction
 
 This second programming assignment will require you to write an R
